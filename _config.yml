@@ -1,11 +1,11 @@
 # Site settings
-author: Evan Sturman
-title: 
+author: Evan A Sturman
+title: Nimmock
 header-img: img/home-bg.png
 email: evan.sturman@gmail.com
-copyright_name: Evan Sturman
+copyright_name: Evan A Sturman
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Musings
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Nimmock
